@@ -1,9 +1,9 @@
 # AI-Enhanced-Customer-Support-Ticket-Resolution-and-Proactive-Issue-Prevention-System
 
-#Project Overview
+# Project Overview
 The AI-Enhanced Customer Support Ticket Resolution and Proactive Issue Prevention System is an advanced AI-powered solution designed to revolutionize customer support operations. By leveraging historical ticket data analysis, natural language processing (NLP), and real-time sentiment analysis, this system predicts recurring issues, automates responses to common problems, and proactively addresses potential concerns before they escalate. The system integrates seamlessly with platforms like Google Sheets, Slack, and Email, ensuring a streamlined workflow for support teams.
 
-#Key Features:-
+# Key Features:-
 Predictive Issue Detection:
 Analyzes historical ticket data to identify patterns and predict recurring issues.
 Generates preemptive solutions to address common problems before they arise.
@@ -20,7 +20,7 @@ Proactive Issue Prevention Dashboard:
 Provides real-time insights into potential future issues based on historical data.
 Suggests proactive measures to prevent common problems, reducing ticket volume and improving customer satisfaction.
 
-#Technical Implementation:-
+# Technical Implementation:-
 The system is built using the following technologies and frameworks:
 Natural Language Processing (NLP): Powered by OpenAI GPT and Meta LLaMA for sentiment analysis and automated response generation.
 Data Visualization: Utilizes libraries like matplotlib and seaborn to create insightful dashboards for proactive issue prevention.
